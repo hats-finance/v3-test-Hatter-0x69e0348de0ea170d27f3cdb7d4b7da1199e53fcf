@@ -1,3 +1,11 @@
+# Audit Competition for v3-test-Hatter
+This repository is for the audit competition for the v3-test-Hatter.
+To participate, submit your findings only by using the on-chain submission process on https://app.hats.finance/vulnerability .
+## How to participate
+- follow the instructions on https://app.hats.finance/
+## Good luck!
+We look forward to seeing your findings.
+* * *
 # 🎩 Hats Finance Frontend
 
 <p align="center">
